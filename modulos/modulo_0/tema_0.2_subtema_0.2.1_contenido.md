@@ -1,69 +1,99 @@
-# Variables y constantes
+# Variables y Constantes en el Lenguaje Algebraico
 
-## Introducción
+**Tiempo estimado**: 40 minutos  
+**Nivel**: Introductorio  
+**Prerrequisitos**: Ninguno
 
-Este subtema forma parte del módulo 0 y aborda variables y constantes.
+## ¿Por qué importa este concepto?
 
-## Objetivos de Aprendizaje
+El álgebra nace cuando dejamos de calcular con números específicos ($3+5$) y empezamos a calcular con **patrones generales**. Las variables son contenedores vacíos que pueden guardar cualquier número. Las constantes son los anclajes fijos de nuestro universo. Saber distinguirlos es entender la diferencia entre lo que *cambia* y lo que *permanece* en un sistema matemático. Sin variables, no hay fórmulas, no hay código de programación, no hay física moderna.
 
-Al finalizar este subtema, serás capaz de:
+## Comprensión intuitiva
 
-1. Comprender los conceptos fundamentales de variables y constantes
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+Piensa en una **fórmula de Excel** o una **receta de cocina**.
 
-## Contenido Teórico
+- **Variable**: "Cantidad de harina". Depende de cuántas pizzas quieras hacer. Si haces 1 pizza, es 200g. Si haces 10, son 2000g. El valor *varía*. Generalmente usamos letras como $x, y, z$ o $n$.
+- **Constante**: "Minutos en el horno". La receta dice 20 minutos fijos, sin importar cuántas pizzas hagas. El valor es *constante*. Usamos números ($5, -3, \pi$) o primeras letras del alfabeto ($a, b, c$) para constantes genéricas.
 
-### 1. Conceptos Fundamentales
+El álgebra es el lenguaje para escribir estas "recetas" de forma compacta.
 
-[Contenido teórico detallado sobre Variables y constantes]
+## Definición formal
 
-### 2. Propiedades y Características
+### 1. Variable (Incógnita o Indeterminada)
 
-[Propiedades clave del tema]
+Símbolo que representa un elemento no especificado de un conjunto dado.
 
-### 3. Métodos y Técnicas
+- En $f(x) = 2x + 1$, **$x$** es la variable independiente (input).
+- En $x + 3 = 7$, **$x$** es una incógnita (un valor específico a descubrir).
 
-[Métodos de resolución y técnicas aplicables]
+### 2. Constante
 
-## Ejemplos Resueltos
+Símbolo que representa un valor fijo y determinado.
 
-### Ejemplo 1
-[Problema resuelto paso a paso]
+- **Absoluta**: Números como $2, -7, \frac{1}{2}, \pi, e$.
+- **Paramétrica**: Letras como $a, b, c$ en $ax^2 + bx + c$. Representan números fijos en un contexto dado, aunque no sepamos cuáles son.
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+### 3. Término Algebraico
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+Es la estructura básica del lenguaje algebraico. Se compone de cuatro partes:
+$$ -5x^3 $$
 
-## Errores Comunes
+- **Signo**: ($-$) Indica si es positivo o negativo.
+- **Coeficiente**: ($5$) El factor numérico que multiplica a la variable. Indica "cuántas veces" tenemos la variable.
+- **Variable**: ($x$) La base literal.
+- **Exponente**: ($3$) El grado de la variable.
 
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
+## Implementación práctica: Traducción Lenguaje Natural $\leftrightarrow$ Agebraico
 
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
+La habilidad crítica aquí es **traducir**.
 
-## Estrategias de Resolución
+| Lenguaje Natural | Lenguaje Algebraico | Análisis |
+| :--- | :--- | :--- |
+| "Un número cualquiera" | $x$ | Variable genérica. |
+| "El doble de un número" | $2x$ | Coeficiente 2 multiplica variable. |
+| "Un número aumentado en 5" | $x + 5$ | Suma de variable y constante. |
+| "El cuadrado del siguiente número" | $(x+1)^2$ | Operación compuesta. |
+| "La suma de dos números distintos" | $x + y$ | Dos variables diferentes. |
+| "El 20% de un número" | $0.20x$ | Porcentaje como decimal. |
 
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+### Ejemplo de Modelado
 
-## Aplicaciones
+**Situación**: Un plan de celular cuesta \$20 de base mensual más \$0.50 por cada minuto de llamada.
 
-[Aplicaciones prácticas del tema en contextos reales]
+- **Constante**: \$20 (Costo fijo).
+- **Variable**: $m$ (Minutos consumidos, esto cambia cada mes).
+- **Coeficiente**: \$0.50 (Costo por unidad de variable).
+- **Expresión Final**: $Costo = 20 + 0.50m$.
 
-## Resumen
+## Trampas y errores comunes
 
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
+### ❌ Error 1: Confundir coeficiente con sumando
 
-## Práctica Recomendada
+**Incorrecto**: "Un número más dos" $\to 2x$.
+**Correcto**: $x + 2$.
+**Explicación**: $2x$ es "dos veces un número" (multiplicación). $x+2$ es suma.
 
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+### ❌ Error 2: Variables distintas vs misma variable
+
+**Incorrecto**: "La suma de dos números" $\to x + x$.
+**Correcto**: $x + y$.
+**Explicación**: Si usas $x$ dos veces, obligas a que los números sean iguales. Si el problema dice "dos números" (en general), debes usar letras distintas.
+
+### ❌ Error 3: Signo del coeficiente
+
+En el término $-x$:
+
+- Muchos piensan que no tiene coeficiente.
+- **Correcto**: El coeficiente es $-1$.
+- **Explicación**: $-x$ es abreviatura de $-1 \cdot x$.
+
+## Resumen Ejecutivo
+
+- **Variable ($x, y, z$)**: Contenedor de valores cambiantes o desconocidos.
+- **Constante ($5, \pi, -2$)**: Valor fijo.
+- **Coeficiente**: Número que multiplica a la variable. (En $3x$, el 3).
+- **Traducción**: El álgebra es un idioma. Debes aprender a traducir frases a símbolos.
+  - "De", "del", "veces" $\to$ Multiplicación.
+  - "Aumentado", "más", "suma" $\to$ Suma.
+  - "Disminuido", "diferencia" $\to$ Resta.
+  - "Razón", "cociente" $\to$ División.
