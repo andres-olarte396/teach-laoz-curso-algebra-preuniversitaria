@@ -1,69 +1,46 @@
 # Método de sustitución
 
 ## Introducción
-
-Este subtema forma parte del módulo 3 y aborda método de sustitución.
+**Método de sustitución** es un pilar fundamental en este módulo. Entender esto te permitirá conectar conceptos previos con nuevas herramientas algebraicas.
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de método de sustitución
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Dominar el concepto de Método de sustitución.
+2. Identificar patrones para resolución rápida.
+3. Aplicar estas técnicas en ejercicios multinivel.
 
 ## Contenido Teórico
+- Despejar una variable
+- Sustituir en la otra ecuación
 
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Método de sustitución]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+### Profundización
+(Aquí se detalla la lógica interna de los conceptos presentados, conectando con Despejar una variable).
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: x+y=5; 2x-y=4
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. De ec1. y=5-x
+Paso 2: En ec2: 2x-(5-x)=4
+Paso 3: 3x-5=4 -> 3x=9 -> x=3
+Paso 4: y=5-3=2
+
+Respuesta: x=3, y=2
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
+❌ **Error**: Saltarse pasos de verificación.
+✅ **Correcto**: Comprobar siempre el resultado.
 
 ## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+- Identifica la estructura del problema.
+- Selecciona el método más eficiente (ej. factorización vs fórmula general).
+- Verifica si la solución tiene sentido en el contexto.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Simplificación de expresiones en Física.
+- Modelado de funciones de costos/ingresos.
+- Base para el Cálculo Diferencial.

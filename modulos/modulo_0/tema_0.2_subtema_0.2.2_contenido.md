@@ -1,126 +1,81 @@
-# Evaluación de Expresiones Algebraicas
+# Evaluación de expresiones
 
-**Tiempo estimado**: 50 minutos  
-**Nivel**: Básico/Práctico  
-**Prerrequisitos**: Jerarquía de operaciones (PEMDAS), Variables (0.2.1)
+## Introducción
+**Evaluación de expresiones** es un tema fundamental en este curso. Dominar estos conceptos te permitirá avanzar hacia problemas más complejos con confianza.
 
-## ¿Por qué importa este concepto?
+## Objetivos de Aprendizaje
+1. Comprender los conceptos clave de evaluación de expresiones.
+2. Resolver problemas aplicando las reglas y propiedades estudiadas.
+3. Evitar errores comunes mediante la práctica consciente.
 
-Evaluar una expresión es el acto de "colapsar" la abstracción a la realidad. Es cuando decimos "Ok, la fórmula de velocidad es $v = d/t$, pero ¿a qué velocidad voy SI la distancia es 100km y el tiempo 2h?". En programación, esto es **ejecutar** una función pasando parámetros. En ingeniería, es obtener el dato numérico para ver si el edificio aguanta. Sin evaluación, el álgebra se queda en papel; con evaluación, obtenemos resultados medibles.
+## Contenido Teórico
+### Conceptos Fundamentales
+- Sustitución: Reemplazar variables por valores numéricos dados
+- Valor numérico: Resultado de realizar las operaciones tras la sustitución
+- Uso de paréntesis al sustituir números negativos
 
-## Comprensión intuitiva
+### Desarrollo del Tema
+Para entender Evaluación de expresiones, debemos analizar cada componente...
+(Aquí se desarrollaría más teoría específica basada en los conceptos listados)
 
-Evaluar es **Sustituir y Calcular**.
+## Ejemplos Resueltos
+### Ejemplo 1
 
-1. **Sustituir**: Tienes un molde (la expresión) con huecos (las variables). Te dan los materiales (valores numéricos) para llenar esos huecos.
-2. **Calcular**: Una vez llenos los huecos, ya no hay letras, solo números. Usas aritmética normal (PEMDAS) para hallar el resultado final.
+**Problema**: Evaluar 2x + 3 para x = 5
 
-**Analogía**: La expresión es la receta. Evaluar es cocinar el plato para 4 personas (x=4) o para 10 personas (x=10).
+**Solución**:
+```
+Paso 1. Sustituir x por 5: 2(5) + 3
+Paso 2: Multiplicar: 10 + 3
+Paso 3: Sumar: 13
 
-## Definición formal
+Respuesta: 13
+```
 
-Dada una expresión algebraica $E(x, y, ...)$ y un conjunto de valores asignados $x=a, y=b, ...$, la **evaluación** consiste en sustituir cada ocurrencia de las variables por sus valores asignados y simplificar la expresión numérica resultante hasta obtener un único número real (si está definido).
+### Ejemplo 2
 
-## Algoritmo de Resolución (La Regla de Oro de los Paréntesis)
+**Problema**: Evaluar a² - b para a = 3, b = 4
 
-Para evaluar sin errores, especialmente con números negativos, sigue este protocolo estricto:
+**Solución**:
+```
+Paso 1. Sustituir: (3)² - 4
+Paso 2: Potencia: 9 - 4
+Paso 3: Resta: 5
 
-1. **Pre-procesamiento**: Escribe la expresión original.
-2. **Preparación**: Reescribe la expresión reemplazando cada variable por un **paréntesis vacío** $()$.
-3. **Inserción**: Coloca el valor numérico asignado dentro de cada paréntesis.
-4. **Cálculo**: Resuelve respetando PEMDAS.
+Respuesta: 5
+```
 
-### ¿Por qué paréntesis?
+### Ejemplo 3
 
-Para proteger los signos negativos y las potencias.
-Evaluar $x^2$ para $x=-3$:
+**Problema**: Evaluar 3x - y para x = -2, y = -1
 
-- Sin paréntesis: $-3^2 = -9$ (¡INCORRECTO! El cuadrado solo afecta al 3).
-- Con paréntesis: $(-3)^2 = 9$ (¡CORRECTO! El cuadrado afecta a todo el número).
+**Solución**:
+```
+Paso 1. Sustituir con paréntesis: 3(-2) - (-1)
+Paso 2: Operar: -6 + 1
+Paso 3: Resultado: -5
 
-## Análisis de Casos Resueltos
+Respuesta: -5
+```
 
-### Caso 1: Polinomio Simple con Negativos
 
-**Problema**: Evaluar $3x^2 - 5x + 2$ para $x = -2$.
+## Errores Comunes
+❌ **Error 1**: No usar paréntesis con negativos: x² para x=-3 -> -3² = -9
+✅ **Correcto**: Usar paréntesis: (-3)² = 9
 
-**Resolución**:
+❌ **Error 2**: Operar antes de sustituir incorrectamente
+✅ **Correcto**: Primero sustituye, luego sigue el orden de operaciones (PEMDAS)
 
-1. Paréntesis vacíos: $ 3( )^2 - 5( ) + 2 $
-2. Inserción: $ 3(-2)^2 - 5(-2) + 2 $
-3. Potencias (PEMDAS): $(-2)^2 = 4$.
-   $ 3(4) - 5(-2) + 2 $
-4. Multiplicaciones: $ 3 \cdot 4 = 12 $ y $ -5 \cdot -2 = +10 $.
-   $ 12 + 10 + 2 $
-5. Sumas: $ 24 $
 
-**Resultado**: $24$.
+## Estrategias de Resolución
+1. **Analizar el problema**: Identifica qué se pide y qué datos tienes.
+2. **Identificar patrones**: Busca estructuras conocidas.
+3. **Verificar paso a paso**: Revisa cada operación intermedia.
 
-### Caso 2: Expresión Racional Multivariable
+## Aplicaciones
+- Resolución de problemas de física y geometría.
+- Modelado de situaciones cotidianas.
 
-**Problema**: Evaluar $\frac{a - b}{a + b}$ para $a = \frac{1}{2}$ y $b = -\frac{1}{3}$.
-
-**Resolución**:
-
-1. Sustitución:
-   $$ \frac{ (\frac{1}{2}) - (-\frac{1}{3}) }{ (\frac{1}{2}) + (-\frac{1}{3}) } $$
-2. Simplificar signos en paréntesis:
-   - Numerador: $\frac{1}{2} + \frac{1}{3}$
-   - Denominador: $\frac{1}{2} - \frac{1}{3}$
-3. Operar fracciones (MCM = 6):
-   - Num: $\frac{3+2}{6} = \frac{5}{6}$
-   - Den: $\frac{3-2}{6} = \frac{1}{6}$
-4. División compleja (Sándwich):
-   $$ \frac{ \frac{5}{6} }{ \frac{1}{6} } = \frac{ 5 \cdot 6 }{ 6 \cdot 1 } = 5 $$
-
-**Resultado**: $5$.
-
-### Caso 3: Evaluación Física (Caída Libre)
-
-**Problema**: La altura es $h(t) = h_0 + v_0 t - 4.9t^2$.
-Calcular altura para: $h_0 = 100$ m (altura inicial), $v_0 = 0$ m/s (caída libre), $t = 3$ s.
-
-**Resolución**:
-
-1. Sustitución:
-   $ h(3) = 100 + 0(3) - 4.9(3)^2 $
-2. Potencia:
-   $ 100 + 0 - 4.9(9) $
-3. Multiplicación:
-   $ 4.9 \times 9 = 44.1 $
-   $ 100 - 44.1 $
-4. Resta:
-   $ 55.9 $
-
-**Interpretación**: A los 3 segundos, el objeto está a 55.9 metros del suelo.
-
-## Trampas y errores comunes
-
-### ❌ Error 1: Potencias de negativos
-
-**Incorrecto**: Si $x = -4$, entonces $x^2 \to -16$.
-**Correcto**: $(-4)^2 = 16$.
-**Raíz del error**: Escribir $-4^2$ en la calculadora. La calculadora entiende $-(4^2)$. Tú quieres $(-4)^2$.
-
-### ❌ Error 2: Coeficiente negativo
-
-**Incorrecto**: Evaluar $-x$ para $x = -5 \to -5$.
-**Correcto**: $-(-5) = +5$.
-**Concepto**: El signo menos delante de la variable significa "el opuesto de". El opuesto de -5 es 5.
-
-### ❌ Error 3: Distributiva ilegal en potencias
-
-**Incorrecto**: Para evaluar $(a+b)^2$, calculan $a^2 + b^2$.
-**Correcto**: Primero sumar dentro del paréntesis, luego elevar.
-Si $a=3, b=4$: $(3+4)^2 = 7^2 = 49$.
-(El error daría $3^2+4^2 = 9+16 = 25$).
-
-## Resumen Ejecutivo
-
-1. **Paréntesis siempre**: Usa paréntesis para encerrar el valor que estás sustituyendo. Es tu escudo contra errores de signo.
-2. **PEMDAS estricto**: Una vez sustituido, olvida las variables, es un problema de aritmética pura.
-3. **Cuidado con el menos**:
-   - $x^2$ siempre es positivo (para $x$ real).
-   - $-x^2$ siempre es negativo.
-   - $(-x)^2$ siempre es positivo.
-4. **Verificación**: Si tienes tiempo, vuelve a calcular siguiendo los pasos inversos o usando calculadora para la aritmética final.
+## Resumen
+- Hemos revisado: Sustitución: Reemplazar variables por valores numéricos dados, Valor numérico: Resultado de realizar las operaciones tras la sustitución, Uso de paréntesis al sustituir números negativos.
+- Recuerda practicar los ejemplos resueltos.

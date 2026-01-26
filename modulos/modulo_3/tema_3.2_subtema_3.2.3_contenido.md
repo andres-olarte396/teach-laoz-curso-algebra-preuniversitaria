@@ -1,69 +1,44 @@
-# Método de eliminación (reducción)
+# Método de reducción
 
 ## Introducción
-
-Este subtema forma parte del módulo 3 y aborda método de eliminación (reducción).
+**Método de reducción** es un pilar fundamental en este módulo. Entender esto te permitirá conectar conceptos previos con nuevas herramientas algebraicas.
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de método de eliminación (reducción)
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Dominar el concepto de Método de reducción.
+2. Identificar patrones para resolución rápida.
+3. Aplicar estas técnicas en ejercicios multinivel.
 
 ## Contenido Teórico
+- Sumar ecuaciones para eliminar variable
+- Multiplicar por constante
 
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Método de eliminación (reducción)]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+### Profundización
+(Aquí se detalla la lógica interna de los conceptos presentados, conectando con Sumar ecuaciones para eliminar variable).
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: 3x+2y=12; 5x-2y=4
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. Sumar directo: 8x=16 -> x=2
+Paso 2: Sustituir: 3(2)+2y=12 -> 2y=6 -> y=3
+
+Respuesta: x=2, y=3
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
+❌ **Error**: Saltarse pasos de verificación.
+✅ **Correcto**: Comprobar siempre el resultado.
 
 ## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+- Identifica la estructura del problema.
+- Selecciona el método más eficiente (ej. factorización vs fórmula general).
+- Verifica si la solución tiene sentido en el contexto.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Simplificación de expresiones en Física.
+- Modelado de funciones de costos/ingresos.
+- Base para el Cálculo Diferencial.

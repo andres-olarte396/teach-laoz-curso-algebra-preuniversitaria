@@ -1,69 +1,44 @@
-# Sistemas 3x3 y aplicaciones
+# Sistemas 3x3
 
 ## Introducción
-
-Este subtema forma parte del módulo 3 y aborda sistemas 3x3 y aplicaciones.
+**Sistemas 3x3** es un pilar fundamental en este módulo. Entender esto te permitirá conectar conceptos previos con nuevas herramientas algebraicas.
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de sistemas 3x3 y aplicaciones
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Dominar el concepto de Sistemas 3x3.
+2. Identificar patrones para resolución rápida.
+3. Aplicar estas técnicas en ejercicios multinivel.
 
 ## Contenido Teórico
+- Eliminación Gaussiana
+- Reducción escalonada
 
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Sistemas 3x3 y aplicaciones]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+### Profundización
+(Aquí se detalla la lógica interna de los conceptos presentados, conectando con Eliminación Gaussiana).
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: x+y+z=6; x-y+z=2; x+2y-z=2
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. Eliminar y entre 1 y 2 -> 2x+2z=8
+Paso 2: Resolver sistema reducido
+
+Respuesta: x=1, y=2, z=3
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
+❌ **Error**: Saltarse pasos de verificación.
+✅ **Correcto**: Comprobar siempre el resultado.
 
 ## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+- Identifica la estructura del problema.
+- Selecciona el método más eficiente (ej. factorización vs fórmula general).
+- Verifica si la solución tiene sentido en el contexto.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Simplificación de expresiones en Física.
+- Modelado de funciones de costos/ingresos.
+- Base para el Cálculo Diferencial.

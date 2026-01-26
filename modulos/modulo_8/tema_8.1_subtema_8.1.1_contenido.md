@@ -1,69 +1,35 @@
-# Dominio y puntos de discontinuidad
+# Asíntotas
 
 ## Introducción
-
-Este subtema forma parte del módulo 8 y aborda dominio y puntos de discontinuidad.
+El estudio de **Asíntotas** es crucial para comprender el comportamiento de las funciones y sus aplicaciones. 
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de dominio y puntos de discontinuidad
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Definir y explicar Asíntotas.
+2. Aplicar propiedades para resolver problemas.
+3. Analizar gráficas y comportamientos.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Dominio y puntos de discontinuidad]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- Vertical: denominador=0
+- Horizontal: grados de numerador/denominador
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: Asíntotas de f(x) = (2x+1)/(x-3)
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. V: x-3=0 -> x=3
+Paso 2: H: grado1/grado1 -> coef 2/1 = 2
+
+Respuesta: V: x=3, H: y=2
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
-
-## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
+❌ **Error**: Confundir conceptos básicos.
+✅ **Correcto**: Revisar definiciones cuidadosamente.
 
 ## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Asíntotas permite modelar fenómenos variados.
+- La práctica es fundamental.

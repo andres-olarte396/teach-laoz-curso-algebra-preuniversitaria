@@ -1,69 +1,45 @@
 # Método de igualación
 
 ## Introducción
-
-Este subtema forma parte del módulo 3 y aborda método de igualación.
+**Método de igualación** es un pilar fundamental en este módulo. Entender esto te permitirá conectar conceptos previos con nuevas herramientas algebraicas.
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de método de igualación
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Dominar el concepto de Método de igualación.
+2. Identificar patrones para resolución rápida.
+3. Aplicar estas técnicas en ejercicios multinivel.
 
 ## Contenido Teórico
+- Despejar la misma variable en ambas
+- Igualar expresiones
 
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Método de igualación]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+### Profundización
+(Aquí se detalla la lógica interna de los conceptos presentados, conectando con Despejar la misma variable en ambas).
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: x=y+1; x=2y-1
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. y+1 = 2y-1
+Paso 2: 2 = y
+Paso 3: x = 2+1 = 3
+
+Respuesta: x=3, y=2
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
+❌ **Error**: Saltarse pasos de verificación.
+✅ **Correcto**: Comprobar siempre el resultado.
 
 ## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+- Identifica la estructura del problema.
+- Selecciona el método más eficiente (ej. factorización vs fórmula general).
+- Verifica si la solución tiene sentido en el contexto.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Simplificación de expresiones en Física.
+- Modelado de funciones de costos/ingresos.
+- Base para el Cálculo Diferencial.

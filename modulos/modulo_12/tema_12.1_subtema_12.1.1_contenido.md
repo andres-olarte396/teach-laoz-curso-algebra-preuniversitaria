@@ -1,69 +1,31 @@
 # Resolución de problemas integradores
 
 ## Introducción
-
-Este subtema forma parte del módulo 12 y aborda resolución de problemas integradores.
-
-## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de resolución de problemas integradores
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+Llegamos a un tema avanzado: **Resolución de problemas integradores**. Esto integrará todo lo aprendido anteriormente.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Resolución de problemas integradores]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- Combinación de álgebra, funciones y geometría
+- Estrategias de examen
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: Problema tipo examen admisión
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. Analizar
+Paso 2: Plantear
+Paso 3: Resolver
+
+Respuesta: 42
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+❌ **Error**: Errores de cálculo en pasos intermedios.
+✅ **Correcto**: Verificar cada paso.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Modelado de situaciones reales.
+- Preparación para cálculo universitario.

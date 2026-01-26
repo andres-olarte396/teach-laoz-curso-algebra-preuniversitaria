@@ -1,69 +1,47 @@
 # Definición y notación
 
 ## Introducción
-
-Este subtema forma parte del módulo 6 y aborda definición y notación.
+El estudio de **Definición y notación** es crucial para comprender el comportamiento de las funciones y sus aplicaciones. 
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de definición y notación
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Definir y explicar Definición y notación.
+2. Aplicar propiedades para resolver problemas.
+3. Analizar gráficas y comportamientos.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Definición y notación]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- Relación vs Función
+- Prueba de la línea vertical
+- Notación f(x)
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
+
+**Problema**: ¿Es y² = x una función?
+
+**Solución**:
+```
+Paso 1. Si x=4, y=2 o y=-2
+Paso 2: Un x tiene dos y -> No es función
+
+Respuesta: No
+```
 
 ### Ejemplo 2
-[Problema resuelto paso a paso]
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Problema**: Evaluar f(x)=2x+1 en x=3
+
+**Solución**:
+```
+Paso 1. f(3) = 2(3)+1 = 7
+
+Respuesta: 7
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
-
-## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
+❌ **Error**: Confundir conceptos básicos.
+✅ **Correcto**: Revisar definiciones cuidadosamente.
 
 ## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Definición y notación permite modelar fenómenos variados.
+- La práctica es fundamental.

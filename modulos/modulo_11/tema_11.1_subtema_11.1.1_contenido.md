@@ -1,69 +1,30 @@
-# Suma y resta de matrices
+# Suma de matrices
 
 ## Introducción
-
-Este subtema forma parte del módulo 11 y aborda suma y resta de matrices.
-
-## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de suma y resta de matrices
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+Llegamos a un tema avanzado: **Suma de matrices**. Esto integrará todo lo aprendido anteriormente.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Suma y resta de matrices]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- Sumar elemento a elemento
+- Mismas dimensiones
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: [1 2] + [3 4]
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. 1+3=4
+Paso 2: 2+4=6
+
+Respuesta: [4 6]
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+❌ **Error**: Errores de cálculo en pasos intermedios.
+✅ **Correcto**: Verificar cada paso.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Modelado de situaciones reales.
+- Preparación para cálculo universitario.

@@ -57,7 +57,7 @@ graph TD
 **Duración**: 3 horas  
 **Objetivo**: Validar prerrequisitos y nivelar conocimientos base en aritmética y álgebra elemental
 
-#### TEMA 0.1: Repaso de Aritmética
+#### TEMA 0.1. Repaso de Aritmética
 
 **Objetivo del Tema**: Consolidar operaciones aritméticas fundamentales
 
@@ -89,12 +89,12 @@ graph TD
 
 ---
 
-### MÓDULO 1: Fundamentos de Expresiones Algebraicas
+### MÓDULO 1. Fundamentos de Expresiones Algebraicas
 
 **Duración**: 5 horas  
 **Objetivo**: Dominar la manipulación de expresiones algebraicas mediante operaciones y simplificación
 
-#### TEMA 1.1: Operaciones con Expresiones Algebraicas
+#### TEMA 1.1. Operaciones con Expresiones Algebraicas
 
 **Objetivo del Tema**: Realizar operaciones básicas con monomios y polinomios
 
@@ -143,7 +143,7 @@ graph TD
 **Duración**: 6 horas  
 **Objetivo**: Dominar técnicas de factorización para simplificar expresiones y resolver ecuaciones
 
-#### TEMA 2.1: Técnicas Básicas de Factorización
+#### TEMA 2.1. Técnicas Básicas de Factorización
 
 **Objetivo del Tema**: Aplicar métodos fundamentales de factorización
 
@@ -201,7 +201,7 @@ graph TD
 **Duración**: 6 horas  
 **Objetivo**: Resolver ecuaciones lineales y sistemas de ecuaciones usando métodos algebraicos y gráficos
 
-#### TEMA 3.1: Ecuaciones Lineales
+#### TEMA 3.1. Ecuaciones Lineales
 
 **Objetivo del Tema**: Resolver ecuaciones lineales de una variable
 
@@ -256,7 +256,7 @@ graph TD
 **Duración**: 6 horas  
 **Objetivo**: Resolver ecuaciones cuadráticas usando múltiples métodos y analizar sus soluciones
 
-#### TEMA 4.1: Métodos de Resolución
+#### TEMA 4.1. Métodos de Resolución
 
 **Objetivo del Tema**: Aplicar diferentes técnicas para resolver ecuaciones cuadráticas
 
@@ -314,7 +314,7 @@ graph TD
 **Duración**: 5 horas  
 **Objetivo**: Resolver y graficar desigualdades lineales, cuadráticas y sistemas de desigualdades
 
-#### TEMA 5.1: Desigualdades Lineales
+#### TEMA 5.1. Desigualdades Lineales
 
 **Objetivo del Tema**: Resolver desigualdades de primer grado
 
@@ -366,7 +366,7 @@ graph TD
 **Duración**: 6 horas  
 **Objetivo**: Comprender el concepto de función, su notación y representación gráfica
 
-#### TEMA 6.1: Concepto de Función
+#### TEMA 6.1. Concepto de Función
 
 **Objetivo del Tema**: Definir y caracterizar funciones matemáticas
 
@@ -430,7 +430,7 @@ graph TD
 **Duración**: 5 horas  
 **Objetivo**: Analizar y graficar funciones polinomiales de grado superior
 
-#### TEMA 7.1: Funciones Lineales y Cuadráticas
+#### TEMA 7.1. Funciones Lineales y Cuadráticas
 
 **Objetivo del Tema**: Estudiar funciones de primer y segundo grado
 
@@ -473,7 +473,7 @@ graph TD
 **Duración**: 5 horas  
 **Objetivo**: Analizar funciones racionales y radicales, identificando asíntotas y discontinuidades
 
-#### TEMA 8.1: Funciones Racionales
+#### TEMA 8.1. Funciones Racionales
 
 **Objetivo del Tema**: Estudiar funciones de la forma f(x)=P(x)/Q(x)
 
@@ -516,7 +516,7 @@ graph TD
 **Duración**: 6 horas  
 **Objetivo**: Dominar funciones exponenciales y logarítmicas, sus propiedades y aplicaciones
 
-#### TEMA 9.1: Funciones Exponenciales
+#### TEMA 9.1. Funciones Exponenciales
 
 **Objetivo del Tema**: Analizar funciones de la forma f(x)=aˣ
 
@@ -580,7 +580,7 @@ graph TD
 **Duración**: 4 horas  
 **Objetivo**: Analizar sucesiones aritméticas y geométricas, calcular sumas de series
 
-#### TEMA 10.1: Sucesiones
+#### TEMA 10.1. Sucesiones
 
 **Objetivo del Tema**: Identificar y generar términos de sucesiones
 
@@ -618,12 +618,12 @@ graph TD
 
 ---
 
-### MÓDULO 11: Matrices y Determinantes
+### MÓDULO 11. Matrices y Determinantes
 
 **Duración**: 3 horas  
 **Objetivo**: Realizar operaciones con matrices y calcular determinantes
 
-#### TEMA 11.1: Operaciones con Matrices
+#### TEMA 11.1. Operaciones con Matrices
 
 **Objetivo del Tema**: Ejecutar operaciones básicas con matrices
 
