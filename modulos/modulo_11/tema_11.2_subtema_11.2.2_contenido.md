@@ -1,69 +1,18 @@
-# Regla de Cramer
+# Tema Avanzado
 
 ## Introducción
-
-Este subtema forma parte del módulo 11 y aborda regla de cramer.
-
-## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de regla de cramer
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+Llegamos a un tema avanzado: **Tema Avanzado**. Esto integrará todo lo aprendido anteriormente.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Regla de Cramer]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- Concepto avanzado
 
 ## Ejemplos Resueltos
 
-### Ejemplo 1
-[Problema resuelto paso a paso]
-
-### Ejemplo 2
-[Problema resuelto paso a paso]
-
-### Ejemplo 3
-[Problema resuelto paso a paso]
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+❌ **Error**: Errores de cálculo en pasos intermedios.
+✅ **Correcto**: Verificar cada paso.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Modelado de situaciones reales.
+- Preparación para cálculo universitario.

@@ -1,5 +1,44 @@
 # Suma y Diferencia de Cubos
 
+<<<<<<< HEAD
+## Introducción
+**Suma y diferencia de cubos** es un pilar fundamental en este módulo. Entender esto te permitirá conectar conceptos previos con nuevas herramientas algebraicas.
+
+## Objetivos de Aprendizaje
+1. Dominar el concepto de Suma y diferencia de cubos.
+2. Identificar patrones para resolución rápida.
+3. Aplicar estas técnicas en ejercicios multinivel.
+
+## Contenido Teórico
+- a³ + b³ = (a+b)(a²-ab+b²)
+- a³ - b³ = (a-b)(a²+ab+b²)
+
+### Profundización
+(Aquí se detalla la lógica interna de los conceptos presentados, conectando con a³ + b³ = (a+b)(a²-ab+b²)).
+
+## Ejemplos Resueltos
+### Ejemplo 1
+
+**Problema**: x³ - 27
+
+**Solución**:
+```
+Paso 1. Raíz cúbica x y 3
+Paso 2: Aplicar fórmula menos
+
+Respuesta: (x-3)(x²+3x+9)
+```
+
+
+## Errores Comunes
+❌ **Error**: Saltarse pasos de verificación.
+✅ **Correcto**: Comprobar siempre el resultado.
+
+## Estrategias de Resolución
+- Identifica la estructura del problema.
+- Selecciona el método más eficiente (ej. factorización vs fórmula general).
+- Verifica si la solución tiene sentido en el contexto.
+=======
 **Tiempo estimado**: 50 minutos  
 **Nivel**: Avanzado  
 **Prerrequisitos**: Productos notables (1.2.3), Factorización de trinomios (2.2)
@@ -328,20 +367,9 @@ x² + 4x + 16 = 0  (discriminante negativo, raíces complejas)
 Estas fórmulas son casos especiales de factorización. En el siguiente tema (2.3.2) verás **factorización por sustitución**, donde transformas expresiones complejas en formas más simples mediante cambios de variable, incluyendo casos que se reducen a suma/diferencia de cubos.
 2. [Estrategia 2]
 3. [Estrategia 3]
+>>>>>>> 1beb0ab266191ed7f8a2fe9b8315ea8588747f48
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Simplificación de expresiones en Física.
+- Modelado de funciones de costos/ingresos.
+- Base para el Cálculo Diferencial.

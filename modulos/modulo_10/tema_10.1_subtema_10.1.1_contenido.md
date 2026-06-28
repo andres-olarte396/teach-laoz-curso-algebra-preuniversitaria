@@ -1,69 +1,30 @@
 # Sucesiones aritméticas
 
 ## Introducción
-
-Este subtema forma parte del módulo 10 y aborda sucesiones aritméticas.
-
-## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de sucesiones aritméticas
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+Llegamos a un tema avanzado: **Sucesiones aritméticas**. Esto integrará todo lo aprendido anteriormente.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Sucesiones aritméticas]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- an = a1 + (n-1)d
+- Diferencia común d
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: Hallar el 10º término de 2, 5, 8...
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. a1=2, d=3
+Paso 2: a10 = 2 + (9)3 = 29
+
+Respuesta: 29
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
+❌ **Error**: Errores de cálculo en pasos intermedios.
+✅ **Correcto**: Verificar cada paso.
 
 ## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
-
-## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Modelado de situaciones reales.
+- Preparación para cálculo universitario.

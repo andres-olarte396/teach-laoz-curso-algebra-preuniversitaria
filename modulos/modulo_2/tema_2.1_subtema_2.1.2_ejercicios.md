@@ -1,7 +1,23 @@
-# Ejercicios: Agrupación de términos
+# Ejercicios Prácticos: Agrupación de términos
 
-## Nivel Básico (60-74%)
+## I. Repaso Conceptual
+1. Define con tus propias palabras qué es: **Agrupar parejas con factor común**.
+2. ¿Por qué es importante considerar Factor común polinomio?
 
+<<<<<<< HEAD
+## II. Práctica Guiada
+Basándote en los ejemplos resueltos, intenta resolver estos problemas similares:
+1. **Variación del Ejemplo 1**: ax + ay + bx + by.
+2. **Variación del Ejemplo 2**: x³ + x² + 2x + 2.
+
+## III. Resolución de Problemas
+- Ejercicio A: Aplica la definición de Agrupación de términos.
+- Ejercicio B: Identifica el error en un caso hipotético.
+
+## IV. Solucionario (Claves)
+- **Parte I**: Revisa la sección de Contenido Teórico.
+- **Parte II**: Sigue los "Pasos" detallados en el contenido.
+=======
 ### Ejercicio 1
 **Enunciado**: Factorizar $ax + ay + bx + by$
 
@@ -457,3 +473,4 @@ Resuelve los siguientes problemas sin consultar las soluciones:
 - 3/3 correctos: Excelente dominio
 - 2/3 correctos: Buen dominio, revisar errores
 - 1/3 o menos: Requiere más práctica
+>>>>>>> 1beb0ab266191ed7f8a2fe9b8315ea8588747f48

@@ -1,69 +1,38 @@
 # Función inversa
 
 ## Introducción
-
-Este subtema forma parte del módulo 6 y aborda función inversa.
+El estudio de **Función inversa** es crucial para comprender el comportamiento de las funciones y sus aplicaciones. 
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de función inversa
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Definir y explicar Función inversa.
+2. Aplicar propiedades para resolver problemas.
+3. Analizar gráficas y comportamientos.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Función inversa]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- Intercambiar x por y
+- Despejar y
+- Prueba de la línea horizontal
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: Inversa de f(x)=3x-5
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. y=3x-5
+Paso 2: x=3y-5
+Paso 3: x+5=3y
+Paso 4: y=(x+5)/3
+
+Respuesta: (x+5)/3
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
-
-## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
+❌ **Error**: Confundir conceptos básicos.
+✅ **Correcto**: Revisar definiciones cuidadosamente.
 
 ## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Función inversa permite modelar fenómenos variados.
+- La práctica es fundamental.

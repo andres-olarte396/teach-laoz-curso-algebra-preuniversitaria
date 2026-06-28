@@ -1,69 +1,36 @@
 # Dominio y rango
 
 ## Introducción
-
-Este subtema forma parte del módulo 6 y aborda dominio y rango.
+El estudio de **Dominio y rango** es crucial para comprender el comportamiento de las funciones y sus aplicaciones. 
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de dominio y rango
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Definir y explicar Dominio y rango.
+2. Aplicar propiedades para resolver problemas.
+3. Analizar gráficas y comportamientos.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Dominio y rango]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- Dominio: valores posibles de x
+- Rango: valores resultantes de y
+- Restricciones (división por 0, raíz negativa)
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
 
-### Ejemplo 2
-[Problema resuelto paso a paso]
+**Problema**: Dominio de f(x) = 1/(x-2)
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Solución**:
+```
+Paso 1. Denominador ≠ 0
+Paso 2: x-2 ≠ 0 -> x ≠ 2
+
+Respuesta: R - {2}
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
-
-## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
+❌ **Error**: Confundir conceptos básicos.
+✅ **Correcto**: Revisar definiciones cuidadosamente.
 
 ## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Dominio y rango permite modelar fenómenos variados.
+- La práctica es fundamental.

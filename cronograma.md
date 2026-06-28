@@ -9,14 +9,14 @@
 
 ## CALENDARIO SEMANAL
 
-### SEMANA 1: Fundamentos y Expresiones Algebraicas (5h)
+### SEMANA 1. Fundamentos y Expresiones Algebraicas (5h)
 
 **Módulo 0: Diagnóstico y Nivelación** (3h)
 
 - **Día 1-2**: Evaluación diagnóstica y repaso de aritmética (1.5h)
 - **Día 3-4**: Introducción al lenguaje algebraico (1.5h)
 
-**Módulo 1: Expresiones Algebraicas** (2h)
+**Módulo 1. Expresiones Algebraicas** (2h)
 
 - **Día 5-7**: Operaciones con expresiones y productos notables (2h)
 
@@ -124,7 +124,7 @@
 
 ### SEMANA 9: Matrices y Repaso Integrador (4h)
 
-**Módulo 11: Matrices y Determinantes** (3h)
+**Módulo 11. Matrices y Determinantes** (3h)
 
 - **Día 1-3**: Operaciones con matrices (2h)
 - **Día 4-5**: Determinantes y regla de Cramer (1h)

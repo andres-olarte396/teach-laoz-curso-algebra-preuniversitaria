@@ -1,69 +1,45 @@
-# Definición y propiedades
+# Logaritmos
 
 ## Introducción
-
-Este subtema forma parte del módulo 9 y aborda definición y propiedades.
+El estudio de **Logaritmos** es crucial para comprender el comportamiento de las funciones y sus aplicaciones. 
 
 ## Objetivos de Aprendizaje
-
-Al finalizar este subtema, serás capaz de:
-
-1. Comprender los conceptos fundamentales de definición y propiedades
-2. Aplicar técnicas y métodos relacionados
-3. Resolver problemas prácticos del tema
+1. Definir y explicar Logaritmos.
+2. Aplicar propiedades para resolver problemas.
+3. Analizar gráficas y comportamientos.
 
 ## Contenido Teórico
-
-### 1. Conceptos Fundamentales
-
-[Contenido teórico detallado sobre Definición y propiedades]
-
-### 2. Propiedades y Características
-
-[Propiedades clave del tema]
-
-### 3. Métodos y Técnicas
-
-[Métodos de resolución y técnicas aplicables]
+- y = log_b(x) <=> b^y = x
+- log(ab) = log a + log b
 
 ## Ejemplos Resueltos
-
 ### Ejemplo 1
-[Problema resuelto paso a paso]
+
+**Problema**: log_2(8)
+
+**Solución**:
+```
+Paso 1. 2^3 = 8
+
+Respuesta: 3
+```
 
 ### Ejemplo 2
-[Problema resuelto paso a paso]
 
-### Ejemplo 3
-[Problema resuelto paso a paso]
+**Problema**: Resolver 2^x = 16
+
+**Solución**:
+```
+Paso 1. 2^x = 2^4 -> x=4
+
+Respuesta: 4
+```
+
 
 ## Errores Comunes
-
-❌ **Error 1**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-❌ **Error 2**: [Descripción del error común]
-✅ **Correcto**: [Forma correcta]
-
-## Estrategias de Resolución
-
-1. [Estrategia 1]
-2. [Estrategia 2]
-3. [Estrategia 3]
-
-## Aplicaciones
-
-[Aplicaciones prácticas del tema en contextos reales]
+❌ **Error**: Confundir conceptos básicos.
+✅ **Correcto**: Revisar definiciones cuidadosamente.
 
 ## Resumen
-
-- [Punto clave 1]
-- [Punto clave 2]
-- [Punto clave 3]
-
-## Práctica Recomendada
-
-Para dominar este tema:
-1. Practica los ejercicios propuestos
-2. Revisa los ejemplos resueltos
-3. Identifica y corrige tus errores
+- Logaritmos permite modelar fenómenos variados.
+- La práctica es fundamental.

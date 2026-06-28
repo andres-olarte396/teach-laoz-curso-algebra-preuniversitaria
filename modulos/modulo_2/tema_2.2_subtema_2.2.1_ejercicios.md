@@ -1,7 +1,23 @@
-# Ejercicios: Trinomio cuadrado perfecto
+# Ejercicios Prácticos: Trinomio cuadrado perfecto
 
-## Nivel Básico (60-74%)
+## I. Repaso Conceptual
+1. Define con tus propias palabras qué es: **a² ± 2ab + b² = (a ± b)²**.
+2. ¿Por qué es importante considerar Comprobación del doble producto?
 
+<<<<<<< HEAD
+## II. Práctica Guiada
+Basándote en los ejemplos resueltos, intenta resolver estos problemas similares:
+1. **Variación del Ejemplo 1**: x² + 6x + 9.
+2. **Variación del Ejemplo 2**: Problema secundario.
+
+## III. Resolución de Problemas
+- Ejercicio A: Aplica la definición de Trinomio cuadrado perfecto.
+- Ejercicio B: Identifica el error en un caso hipotético.
+
+## IV. Solucionario (Claves)
+- **Parte I**: Revisa la sección de Contenido Teórico.
+- **Parte II**: Sigue los "Pasos" detallados en el contenido.
+=======
 ### Ejercicio 1
 **Enunciado**: Verificar si $x^2 + 6x + 9$ es un trinomio cuadrado perfecto y factorizarlo
 
@@ -479,3 +495,4 @@ Resuelve los siguientes problemas sin consultar las soluciones:
 - 3/3 correctos: Excelente dominio
 - 2/3 correctos: Buen dominio, revisar errores
 - 1/3 o menos: Requiere más práctica
+>>>>>>> 1beb0ab266191ed7f8a2fe9b8315ea8588747f48
